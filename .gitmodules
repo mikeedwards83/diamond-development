@@ -1,0 +1,16 @@
+[submodule "Diamond"]
+	path = Diamond
+	url = git@github.com:sitecorerick/diamond.git
+	branch = master
+[submodule "Spark.Sitecore"]
+	path = Spark.Sitecore
+	url = git@github.com:sitecorerick/spark-sitecore.git
+	branch = master
+[submodule "Spark.Html"]
+	path = Spark.Html
+	url = git@github.com:sitecorerick/spark-html.git
+	branch = master
+[submodule "Spark.Reflection"]
+	path = Spark.Reflection
+	url = git@github.com:sitecorerick/spark-reflection.git
+	branch = master
